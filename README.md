@@ -107,7 +107,7 @@ yarn dev
 
 Deploy to Vercel with one click:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/accessilearn)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/numcodes/accessilearn)
 
 Or deploy manually:
 \`\`\`bash
