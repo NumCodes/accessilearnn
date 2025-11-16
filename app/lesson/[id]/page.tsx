@@ -219,37 +219,37 @@ const SIGN_LANGUAGE_RESOURCES = {
   "math-101": {
     title: "Basic Arithmetic in ASL",
     description: "Learn arithmetic operations using American Sign Language",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ", // Placeholder
+    videoUrl: "https://www.youtube.com/embed/Bq9Jw8ofSZ4", // Placeholder
     interpreterLink: "https://www.lifeprint.com", // ASL learning resource
   },
   "math-102": {
     title: "Fractions and Decimals in ASL",
     description: "Understanding fractions using visual sign language demonstrations",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://www.youtube.com/embed/Owiklmh7o34",
     interpreterLink: "https://www.lifeprint.com",
   },
   "science-101": {
     title: "Life Sciences in ASL",
     description: "Biology concepts explained through American Sign Language",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://www.youtube.com/embed/cY4W_1_zEhA",
     interpreterLink: "https://www.lifeprint.com",
   },
   "science-102": {
     title: "Physics Fundamentals in ASL",
     description: "Physics concepts with visual ASL demonstrations",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://www.youtube.com/embed/GA3g0pGw_N4",
     interpreterLink: "https://www.lifeprint.com",
   },
   "english-101": {
     title: "Grammar Essentials in ASL",
     description: "Grammar rules explained using American Sign Language",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://www.youtube.com/embed/_tM3Ebuflng",
     interpreterLink: "https://www.lifeprint.com",
   },
   "history-101": {
     title: "World History Overview in ASL",
     description: "Historical events and periods presented in American Sign Language",
-    videoUrl: "https://www.youtube.com/embed/dQw4w9WgXcQ",
+    videoUrl: "https://www.youtube.com/embed/_LFOmsBDJ4A",
     interpreterLink: "https://www.lifeprint.com",
   },
 }
