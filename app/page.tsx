@@ -322,7 +322,7 @@ export default function Home() {
           </div>
 
           <div className="border-t border-border pt-8 flex items-center justify-between text-sm text-muted-foreground">
-            <p>&copy; 2025 AccessiLearn. All rights reserved.</p>
+            <p>&copy; 2026 AccessiLearn. All rights reserved.</p>
             <p>Built for Everyone by Num Codes</p>
           </div>
         </div>
